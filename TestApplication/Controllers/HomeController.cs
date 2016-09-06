@@ -31,5 +31,9 @@ namespace TestApplication.Controllers
         {
             return "test";
         }
+        public string test2()
+        {
+            return "test2";
+        }
     }
 }
