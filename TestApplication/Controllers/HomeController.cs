@@ -26,5 +26,10 @@ namespace TestApplication.Controllers
 
             return View();
         }
+
+        public string test()
+        {
+            return "test";
+        }
     }
 }
