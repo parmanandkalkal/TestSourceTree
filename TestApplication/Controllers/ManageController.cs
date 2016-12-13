@@ -18,6 +18,8 @@ namespace TestApplication.Controllers
 
         public ManageController()
         {
+            // test change
+            // test change 2
         }
 
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
